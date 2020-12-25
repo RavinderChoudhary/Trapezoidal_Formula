@@ -1,9 +1,11 @@
 # Trapezoidal_Formula
 ## Let Equation be : 
+   <pre>
    f(x) 1/(1+pow(x,2))
    lower = 0
    upper = 6
    stepSize = 1
+   </pre>
 ## Output
 <pre>
 y0 = 1.000000
